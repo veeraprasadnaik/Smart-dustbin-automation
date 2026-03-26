@@ -1,4 +1,4 @@
- .
+  .
 
 📄 README – Smart Dustbin Project
 
